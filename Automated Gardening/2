@@ -1,0 +1,119 @@
+dayofevent   time hr:mm:ss   typeofevent         action                                                          grid
+    0             100    Scheduled          Sprinkling the garden                                                       null
+    0             1:0:0    Scheduled          Sprinkling the garden                                                       null
+    0             1:0:0    Scheduled          Sprinkling the garden                                                       null
+    1             1:0:0    Scheduled          Sprinkling the garden                                                       null
+    1             1:0:0    Scheduled          Sprinkling the garden                                                       null
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:24    Scheduled          null                                                       1
+    1             1:0:22    Scheduled          null                                                       2
+    1             1:0:2    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:2    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:4    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:4    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:2:0    Scheduled          null                                                       1
+    1             1:2:0    Scheduled          null                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:6:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:6:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:6:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:6:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:6:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:6:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             1:0:0    Scheduled          Sprinkling the vegetable plants                                                       2
+    1             1:0:0    Scheduled          Heater                                                       0
+    1             1:2:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
+    1             1:2:0    Scheduled          stopped the Sprinkler for vegetable plants                                                       2
+    1             2:0:0    Scheduled          Sprinkling the Flower plants                                                       1
+    1             2:6:0    Scheduled          stopped the Sprinkler for Flower plants                                                       1
